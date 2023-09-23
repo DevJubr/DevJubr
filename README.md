@@ -1,7 +1,10 @@
-### <div align="center">I'm Jr, a part-time web app developer.</div>  
+### <div align="center">I'm Jr, a part-time web app developer.</div> 
+<br/>  
+<br/> 
   
 - I am committed to unleashing my creative potential and will return shortly with something innovative and unique.
 - 📫 How to reach me ... https://jubayerjr.netlify.app
+- ❓ Ask me about anything related to MERN stack and related technologies.
 
 <!---
 jubayerjr203/jubayerjr203 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,6 +16,8 @@ You can click the Preview link to take a look at your changes.
 <br/> 
 
 ## Connect with me  
+<br/>  
+<br/> 
 <div align="center">
 <a href="https://twitter.com/Jubayer203" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -30,4 +35,3 @@ You can click the Preview link to take a look at your changes.
 
 <br/>  
 <br/>  
-
