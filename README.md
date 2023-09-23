@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <br/>  
-
+<br/> 
 
 ## Connect with me  
 <div align="center">
@@ -27,13 +27,7 @@ You can click the Preview link to take a look at your changes.
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 <br/>  
 <br/>  
-<br/>  
-
 
