@@ -1,6 +1,6 @@
 ### <div align="left">I'm Jr, a part-time web app developer.</div> 
 <br/>  
- 
+ <br/>
   
 - I am committed to unleashing my creative potential and will return shortly with something innovative and unique.
 - 📫 How to reach me ... https://jubayerjr.netlify.app
