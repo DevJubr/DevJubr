@@ -1,4 +1,4 @@
-### <div align="centar">I'm Jr, a part-time web app developer.</div> 
+### <div align="centre">I'm Jr, a part-time web app developer.</div> 
 <br/>  
  
   
