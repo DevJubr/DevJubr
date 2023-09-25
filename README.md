@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   
 <br/> 
 
-### <div align="left">Connect with me.</div> 
+### <div align="centre">Connect with me.</div> 
 <br/>  
 <br/> 
 <div align="center">
