@@ -1,4 +1,4 @@
-### <div align="centre">I'm Jr, a part-time web app developer.</div> 
+### <div align="centre" style="text-align: center;">I'm Jr, a part-time web app developer.</div> 
 <br/>  
  
   
@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
   
 <br/> 
 
-### <div align="centre">Connect with me.</div> 
+### <div align="centre" style="text-align: center;">Connect with me.</div> 
 <br/>  
 <br/> 
 <div align="center">
