@@ -1,7 +1,4 @@
-### <div text-align="center" style="text-align: center;">
-I'm Jr, a student, and a part-time web app developer."
-
-</div> 
+### <div text-align="center" style="text-align: center;">I'm Jr, a student, and a part-time web app developer.</div> 
 <br/>  
  
   
