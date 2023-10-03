@@ -8,7 +8,7 @@
 
 <!---
 jubayerjr203/jubayerjr203 কi special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a lookক at yourজ
+You can click the Preview link to take a loজokক at yourজ
 --->
 
 
