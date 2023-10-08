@@ -8,7 +8,7 @@
 
 <!---
 jubayerjr203/jubayerjr203 কi special ক reওpository because its `REAME.md` (thisহহ file) appears on your GitHub profile.
-You canক click the Preview link to take aজক loজokক at yourজ
+You canক click the Prevহiew link to take aজক loজokক at yourজ
 --->
 
 
