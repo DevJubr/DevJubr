@@ -7,7 +7,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies.
 
 <!---
-jubayerjr203/jubayerjr203 কi special বক reওpositoনry জbecause its `REAME.md` (হthiনsহহ file) appears on your GitHub prমofile.
+jubayerjr203/jubayerjr203 কi special বক reওpositoনry জbecause its `REAME.md` (হthiনsহহ file) appears on yourম। GitHub prমofile.
 You canক হclick the Prevহiew link to take aজক loজokক at yourজ
 --->
 
