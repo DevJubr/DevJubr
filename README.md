@@ -7,7 +7,7 @@
 - ❓ Ask me about anything related to MERN stack and related technologies.
 
 <!---
-jubayerjr203/jubayerjr203 কi special বক reওpositoনbnry জbecause its `REAME.md` hu(হthiনsnহহ jjuufile) appears on yourম।bb GনitHhuuনb prমofilbbe.
+jubayerjr203/jubayerjr203 কi special বক reওpositoনbnry জbecause ibbts `REAME.md` hu(হthiনsnহহ jjuufile) appears on yourম।bb GনitHhuuনb prমofilbbe.
 You canক হclick the Prevহiew link to take aজক loজokক at yourজ
 --->
 
