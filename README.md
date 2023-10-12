@@ -8,7 +8,7 @@
 
 <!---
 jubayerjr203/jubayerjr203 কi special হজবক reওpositoনbnry জbecause ibbtnns `REAME.md` hu(হthiনsnহ hh হ jj nuufile) appears on yoমমurম।bb GনitHhuuনb prমofilbমমbe.
-You canক হclickn the Prevহiew link to take aজক loজokক at yourজ
+You canক হjjclickn the Prevহiew link to take aজক loজokক at yourজ
 --->
 
 
