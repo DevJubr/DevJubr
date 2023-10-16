@@ -8,7 +8,7 @@
 
 <!---
 ju bayerjr20 3/ju bay er jr203 কi cial nnহজ বক rbbeওposn  cause ibbR EAME.md` hu(হthiনsnহ hh হ jj n  uufil e) appears   on মমurম।bb Gনi  jtHhnnuuনnnbbb nnpnnnrমofilbম  মbe.
-You nncanক হjjclickn the Prevহiew li nk to take  naজক loজokক at yourজ
+You nncanক হjj  hjclickn the Prevহiew li nk to take  naজক loজokক at yourজ
 --->
 
 
