@@ -8,7 +8,7 @@
 
 <!---
 ju bayerjr20 3/ju bay er jr203 কi cial nnহজ বকv rbbeওposn  cause ibbR EAMEb.md` hu(হthnnibbনsnহ hh হ jj n  uufil e) appbnebbars   on মমurম।bb Gনi  jtHhnnugg uনnnbbb nnpnnnrমofilbম  মbe.
-You nncanক হjj  hgh.jclickn the Prevহiew li nk to tbbnake  naজক loজokক at yourজ
+You nnca  nক হjj  hgh.jclickn the Prevহiew li nk to tbbnake  naজক loজokক at yourজ
 --->
 
 
