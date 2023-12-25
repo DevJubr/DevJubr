@@ -7,7 +7,7 @@
   
 - I am committed to unleashing my creative potential and will return shortly with something innovative and unique.
 - 📫 How to reach me : https://jubayerjr.netlify.app
-- ❓ Ask me about anything related to MERN stack and related technologies.  
+- ❓ Ask me about anything related to MERN stack and related technologies. 
 
 
 
