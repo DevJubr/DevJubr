@@ -1,7 +1,9 @@
 <!-- <img src="https://raw.githubusercontent.com/DevJubr/DevJubr/main/e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif" />
 --> 
 
-### <div align="center">I'm Jr, a student, and a part-time web app developer.</div>
+### <div align="center">
+I'm Jubayer, a programmer delving into the world of JavaScript.
+</div>
 <br/>   
 
   
